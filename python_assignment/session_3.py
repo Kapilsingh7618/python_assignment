@@ -31,16 +31,16 @@ number2=float(input("enter second number:"))
 operator=input("enter operator (+,_,/,*)")
 if operator=="+":
     Result=number1+number2
-    print("Result",Result)
+    print("Result=",Result)
 elif operator=="_":
     Result=number1-number2
-    print("Result",Result)
+    print("Result=",Result)
 elif operator=="*":
     Result=number1*number2
-    print("Result",Result)
+    print("Result=",Result)
 elif operator=="/":
     Result=number1/number2
-    print("Result",Result)
+    print("Result=",Result)
 else:
     print("enter valid operator")
 
