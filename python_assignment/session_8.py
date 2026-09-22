@@ -1,6 +1,6 @@
 # task 1
-# caption=input("Enter your instagram caption: ")
-# print("first 10 characters:",caption[:10])
+caption=input("Enter your instagram caption: ")
+print("first 10 characters:",caption[:10])
 
 
 
